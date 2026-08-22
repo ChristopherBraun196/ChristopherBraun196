@@ -16,4 +16,4 @@ Frontend Developer in Ausbildung – Fokus auf **JavaScript** & **TypeScript**, 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChristopherBraun196&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ChristopherBraun196&show_icons=true&theme=dark)
