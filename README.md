@@ -1,7 +1,7 @@
  ### Hi, ich bin Christopher 👋
 Frontend Developer in Ausbildung – Fokus auf **JavaScript** & **TypeScript**, sowie **Angular**.
 
-- 🔭 Aktuell dabei: Join-Issue-Collector
+- 🔭 Aktuell dabei: **Code-a-Cuisine**
 - 🌱 Lerne gerade: JavaScript / TypeScript
 
 **Stack:**
