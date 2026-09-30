@@ -1,8 +1,8 @@
  ### Hi, ich bin Christopher 👋
-Frontend Developer in Ausbildung – Fokus auf **JavaScript** & **TypeScript**, sowie **Angular**.
+Frontend Developer (Masterclass 2026 Developer Akademie Abschluss) – Fokus auf **JavaScript** & **TypeScript**, sowie **Angular**.
 
-- 🔭 Aktuell dabei: **DA-Bubble**
-- 🌱 Lerne gerade: JavaScript / TypeScript
+- 🔭 Aktuell dabei: **Portfolio aktualisieren**
+- 🌱 Lerne gerade: auf mich selbst gestellt zu sein :P
 
 **Stack:**
 
